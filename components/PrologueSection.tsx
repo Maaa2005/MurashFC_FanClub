@@ -1,12 +1,12 @@
 import React from 'react';
-import back1 from '../back1.jpg';
-import back2 from '../back2.jpg';
-import back3 from '../back3.jpg';
+import kato1 from '../kato1.jpg';
+import kato2 from '../kato2.jpg';
+import kato3 from '../kato3.jpg';
 
 const storyImages = [
-  { name: back1, caption: 'チームの結束・歓喜' },
-  { name: back2, caption: 'オーナーのガッツポーズ・熱量' },
-  { name: back3, caption: 'PK失敗の苦悩・当事者性' },
+  { name: kato1, caption: 'チームの結束・歓喜' },
+  { name: kato2, caption: 'オーナーのガッツポーズ・熱量' },
+  { name: kato3, caption: 'PK失敗の苦悩・当事者性' },
 ];
 
 const PrologueSection: React.FC = () => {
