@@ -14,7 +14,7 @@ const PrologueSection: React.FC = () => {
     <section className="py-20 sm:py-28 bg-gradient-to-b from-[#1A1A1A] to-black">
       <div className="max-w-7xl mx-auto px-6 lg:px-8">
         <div className="max-w-3xl mx-auto text-center">
-          <h2 className="font-display text-4xl md:text-5xl font-bold text-red-600">
+          <h2 className="font-display text-3xl sm:text-4xl md:text-5xl font-bold text-red-600 whitespace-nowrap">
             不可能を、熱量で覆せ。
           </h2>
           <p className="mt-6 text-lg text-gray-300 leading-8">

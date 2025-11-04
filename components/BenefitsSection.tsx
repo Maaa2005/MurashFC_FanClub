@@ -30,7 +30,7 @@ const BenefitsSection: React.FC = () => {
     <section className="py-20 sm:py-28 bg-[#1A1A1A]">
       <div className="max-w-7xl mx-auto px-6 lg:px-8">
         <div className="max-w-3xl mx-auto text-center">
-          <h2 className="font-display text-4xl md:text-5xl font-bold tracking-tight text-white">
+          <h2 className="font-display text-3xl sm:text-4xl md:text-5xl font-bold tracking-tight text-white whitespace-nowrap">
             「観客」から「当事者」へ
           </h2>
         </div>
